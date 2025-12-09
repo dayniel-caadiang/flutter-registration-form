@@ -33,15 +33,14 @@ Users complete a two-page registration form with their personal and additional i
 
 ## Screenshots
 
-*(Add your screenshots here)*
-
-```
-Suggested screenshots:
-- Home screen (empty state)
-- Registration Page 1
-- Registration Page 2
-- Home screen with submitted data
-```
+<img src="assets/images/reg1.png" width="300">
+<img src="assets/images/reg2.png" width="300">
+<img src="assets/images/reg3.png" width="300">
+<img src="assets/images/reg4.png" width="300">
+<img src="assets/images/reg5.png" width="300">
+<img src="assets/images/reg6.png" width="300">
+<img src="assets/images/reg7.png" width="300">
+<img src="assets/images/reg8.png" width="300">
 
 ---
 
