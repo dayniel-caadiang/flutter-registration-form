@@ -23,7 +23,7 @@ Users complete a two-page registration form with their personal and additional i
   - Radio button gender selection
   - Form error messages with real-time feedback
 - **Data Display**
-  - Beautiful card layout showing all submitted registration details
+  - Card layout showing all submitted registration details
   - Icons for each data field
 - **Proper Navigation Flow**
   - Data passing from Page 1 → Page 2 → Home Screen
