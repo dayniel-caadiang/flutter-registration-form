@@ -6,7 +6,7 @@ void main() {
 }
 
 class RegistrationFormApp extends StatelessWidget {
-  const RegistrationFormApp({Key? key}) : super(key: key);
+  const RegistrationFormApp({super.key});
 
   @override
   Widget build(BuildContext context) {

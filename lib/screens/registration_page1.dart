@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'registration_page2.dart';
 
 class RegistrationPage1 extends StatefulWidget {
-  const RegistrationPage1({Key? key}) : super(key: key);
+  const RegistrationPage1({super.key});
 
   @override
   State<RegistrationPage1> createState() => _RegistrationPage1State();

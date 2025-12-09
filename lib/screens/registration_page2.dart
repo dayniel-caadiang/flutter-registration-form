@@ -8,12 +8,12 @@ class RegistrationPage2 extends StatefulWidget {
   final String password;
 
   const RegistrationPage2({
-    Key? key,
+    super.key,
     required this.fullName,
     required this.email,
     required this.phoneNumber,
     required this.password,
-  }) : super(key: key);
+  });
 
   @override
   State<RegistrationPage2> createState() => _RegistrationPage2State();
