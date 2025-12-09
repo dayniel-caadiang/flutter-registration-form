@@ -94,19 +94,15 @@ lib/
 ---
 
 ## Challenges Faced
-- Managing data flow across three screens (Home → Page 1 → Page 2 → Home)
+- Making sure user data entered on Page 1 successfully reaches Page 2, and then returns to the home screen after submission
 - Implementing proper password confirmation validation
-- Handling scroll overflow on smaller screens with SingleChildScrollView
-- Properly disposing TextEditingController instances to prevent memory leaks
-- Ensuring data is passed back correctly through navigation stack
+- Ensuring the information travels correctly back through all screens without getting lost
 
 ---
 
 ## What I Learned
-- Navigation patterns using Navigator.push() and Navigator.pop() with data passing
-- Form validation using GlobalKey<FormState> and custom validator functions
-- State management with StatefulWidget and setState()
-- Proper lifecycle management with controller disposal
-- Creating reusable data models for clean architecture
-- Using async/await with navigation for handling returned data
-- Implementing responsive forms with appropriate input types and keyboard settings
+- How to move between different pages and carry information along with you
+- Creating rules that check if users fill out forms correctly (like valid emails, matching passwords, etc.)
+- Understanding how to update what users see on screen when they interact with the app
+- Separating different parts of the app into their own files to keep everything clean and manageable
+- Adding helpful features like showing/hiding passwords and displaying appropriate keyboards for different input types
